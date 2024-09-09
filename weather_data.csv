@@ -1,0 +1,8 @@
+City,Temperature,Overall Details
+Toronto, ON,0,"Wind; 9; E; km/h; Humidity; 40; %; Visibility; 24; km; Sunrise; 7:12; AM; Wind gust; 14; km/h; Pressure; 102.9; kPa; Ceiling; 7600; m; Sunset; 7:34; PM"
+Hamilton, ON,0,"Wind; 9; E; km/h; Humidity; 43; %; Visibility; 24; km; Sunrise; 7:14; AM; Wind gust; 14; km/h; Pressure; 102.8; kPa; Ceiling; 7600; m; Sunset; 7:36; PM"
+Kitchener, ON,0,"Wind; 13; E; km/h; Humidity; 39; %; Visibility; 33; km; Sunrise; 7:17; AM; Wind gust; 20; km/h; Pressure; 102.5; kPa; Ceiling; 9100; m; Sunset; 7:38; PM"
+London, ON,1,"Wind; 24; E; km/h; Humidity; 55; %; Visibility; 24; km; Sunrise; 7:20; AM; Wind gust; 36; km/h; Pressure; 102.6; kPa; Ceiling; 7600; m; Sunset; 7:41; PM"
+Windsor, ON,2,"Wind; 24; E; km/h; Humidity; 35; %; Visibility; 14; km; Sunrise; 7:27; AM; Wind gust; 36; km/h; Pressure; 102.4; kPa; Ceiling; 3700; m; Sunset; 7:48; PM"
+Oshawa, ON,-1,"Wind; 6; S; km/h; Humidity; 59; %; Visibility; 13; km; Sunrise; 7:10; AM; Wind gust; 9; km/h; Pressure; 102.8; kPa; Ceiling; 9100; m; Sunset; 7:32; PM"
+Ottawa, ON,-2,"Wind; 9; W; km/h; Humidity; 24; %; Visibility; 24; km; Sunrise; 6:57; AM; Wind gust; 14; km/h; Pressure; 103; kPa; Ceiling; 9100; m; Sunset; 7:20; PM"
